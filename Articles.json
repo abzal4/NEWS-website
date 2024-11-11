@@ -1,0 +1,148 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Advances in Neural Network Research",
+      "date": "2024-10-10",
+      "category": "AI",
+      "content": "Researchers have developed new techniques to enhance neural network efficiency, making AI more accessible and powerful across industries...",
+      "views": 320,
+      "wordCount": 600
+    },
+    {
+      "id": 2,
+      "title": "AI in Healthcare: Revolutionizing Diagnostics",
+      "date": "2024-10-15",
+      "category": "AI",
+      "content": "Artificial intelligence is transforming healthcare by providing faster, more accurate diagnostics and predictive models for various diseases...",
+      "views": 450,
+      "wordCount": 700
+    },
+    {
+      "id": 3,
+      "title": "Ethics in AI: Balancing Progress with Responsibility",
+      "date": "2024-11-01",
+      "category": "AI",
+      "content": "As AI continues to advance, ethical considerations become crucial to ensuring responsible development and deployment in society...",
+      "views": 280,
+      "wordCount": 550
+    },
+    {
+      "id": 4,
+      "title": "AI and Job Automation: What Lies Ahead?",
+      "date": "2024-11-05",
+      "category": "AI",
+      "content": "With the rise of AI, job automation is reshaping industries. Experts weigh in on which jobs are at risk and the potential for workforce transformation...",
+      "views": 500,
+      "wordCount": 750
+    },
+    {
+      "id": 5,
+      "title": "Kazakhstan's Renewable Energy Initiatives",
+      "date": "2024-09-20",
+      "category": "Kazakhstan",
+      "content": "Kazakhstan is investing in renewable energy sources, aiming to reduce its reliance on fossil fuels and contribute to global sustainability efforts...",
+      "views": 200,
+      "wordCount": 600
+    },
+    {
+      "id": 6,
+      "title": "Kazakhstan's Role in Central Asia’s Stability",
+      "date": "2024-10-03",
+      "category": "Kazakhstan",
+      "content": "Kazakhstan plays a vital role in ensuring stability in Central Asia through its diplomatic and economic policies...",
+      "views": 350,
+      "wordCount": 550
+    },
+    {
+      "id": 7,
+      "title": "Kazakhstan's Growing Tech Sector",
+      "date": "2024-10-17",
+      "category": "Kazakhstan",
+      "content": "The tech sector in Kazakhstan is booming, with startups and government initiatives aimed at transforming the nation into a regional tech hub...",
+      "views": 270,
+      "wordCount": 500
+    },
+    {
+      "id": 8,
+      "title": "Educational Reforms in Kazakhstan",
+      "date": "2024-11-04",
+      "category": "Kazakhstan",
+      "content": "Kazakhstan is implementing new educational reforms to improve access to quality education and prepare students for a globalized workforce...",
+      "views": 310,
+      "wordCount": 450
+    },
+    {
+      "id": 9,
+      "title": "Breakthroughs in Quantum Computing",
+      "date": "2024-10-01",
+      "category": "Technology",
+      "content": "Quantum computing is on the verge of revolutionizing fields from cryptography to material science, with major companies investing heavily in R&D...",
+      "views": 400,
+      "wordCount": 700
+    },
+    {
+      "id": 10,
+      "title": "Tech Giants Address Data Privacy Concerns",
+      "date": "2024-10-14",
+      "category": "Technology",
+      "content": "In response to growing concerns about data privacy, tech companies are developing more secure protocols and transparent policies...",
+      "views": 360,
+      "wordCount": 600
+    },
+    {
+      "id": 11,
+      "title": "Advancements in Wearable Technology",
+      "date": "2024-11-02",
+      "category": "Technology",
+      "content": "Wearable technology continues to evolve, with new devices aimed at monitoring health, tracking fitness, and enhancing communication...",
+      "views": 330,
+      "wordCount": 500
+    },
+    {
+      "id": 12,
+      "title": "5G Networks and the Future of Connectivity",
+      "date": "2024-11-07",
+      "category": "Technology",
+      "content": "With the rollout of 5G networks, connectivity is expected to transform industries and enable new technologies like IoT and autonomous vehicles...",
+      "views": 420,
+      "wordCount": 750
+    },
+    {
+      "id": 13,
+      "title": "Global Implications of U.S. Election Policies",
+      "date": "2024-10-10",
+      "category": "Politics",
+      "content": "The recent U.S. elections have brought significant policy changes that are expected to impact international relations and trade...",
+      "views": 390,
+      "wordCount": 600
+    },
+    {
+      "id": 14,
+      "title": "Kazakhstan's Strategic Alliances",
+      "date": "2024-10-22",
+      "category": "Politics",
+      "content": "Kazakhstan is strengthening its alliances with neighboring countries, with implications for trade and regional security...",
+      "views": 340,
+      "wordCount": 500
+    },
+    {
+      "id": 15,
+      "title": "Political Reforms in Central Asia",
+      "date": "2024-11-01",
+      "category": "Politics",
+      "content": "Several Central Asian nations, including Kazakhstan, are implementing political reforms to enhance governance and stability...",
+      "views": 310,
+      "wordCount": 550
+    },
+    {
+      "id": 16,
+      "title": "The Future of European Union Trade Policies",
+      "date": "2024-11-06",
+      "category": "Politics",
+      "content": "EU trade policies are evolving, with new regulations on technology, environment, and data privacy impacting global trade dynamics...",
+      "views": 400,
+      "wordCount": 700
+    }
+  ]
+}
